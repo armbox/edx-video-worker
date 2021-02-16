@@ -17,7 +17,7 @@ setup(
     author_email='',
     license='',
     packages=['video_worker'],
-    dependency_links=['https://github.com/yro/chunkey.git'],
+    dependency_links=['https://github.com/edx-unsupported/chunkey.git'],
     package_data={
         # If any package contains *.txt or *.rst files, include them:
         '': ['*.txt', '*.rst', '*.yaml'],
